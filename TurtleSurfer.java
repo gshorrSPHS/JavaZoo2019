@@ -22,6 +22,6 @@ public class TurtleSurfer extends SeaTurtle
     
    public String toy()
    {
-       return "The Turtle Surfer loves to play in the water with his " + toy;
+       return "The Turtle Surfer loves to play in the water with his surfboard";
    }
 }
