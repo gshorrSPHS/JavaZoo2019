@@ -8,7 +8,7 @@ public class Koala extends Animal implements Climbing
     @Override
     public String makeNoise()
     {
-        return "Do koala make noice?";
+        return "Do koalas make noice?";
     }
     
     @Override
